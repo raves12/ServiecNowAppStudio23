@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_16747_pam_solu_0.Audience for appPAM Solution Delivery</api_name>
+        <description/>
+        <name>Audience for appPAM Solution Delivery</name>
+        <roles>85891b4a470111107ae97868f36d43a3,81891b4a470111107ae97868f36d43b4</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-03 05:59:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5a6a9b8a470111107ae97868f36d43bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for appPAM Solution Delivery</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="PAM Solution Delivery" source="x_16747_pam_solu_0">4d891b4a470111107ae97868f36d439d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PAM Solution Delivery">4d891b4a470111107ae97868f36d439d</sys_scope>
+        <sys_update_name>sys_ux_applicability_5a6a9b8a470111107ae97868f36d43bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-03 05:59:06</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>

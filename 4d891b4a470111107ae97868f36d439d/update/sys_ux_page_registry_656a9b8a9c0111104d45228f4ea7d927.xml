@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>a56a9b8a4b0111104458baf708da8427</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>pam-solution-delivery</path>
+        <root_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-03 05:59:04</sys_created_on>
+        <sys_id>656a9b8a9c0111104d45228f4ea7d927</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PAM Solution Delivery</sys_name>
+        <sys_package display_value="PAM Solution Delivery" source="x_16747_pam_solu_0">4d891b4a470111107ae97868f36d439d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PAM Solution Delivery">4d891b4a470111107ae97868f36d439d</sys_scope>
+        <sys_update_name>sys_ux_page_registry_656a9b8a9c0111104d45228f4ea7d927</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-03 05:59:04</sys_updated_on>
+        <title>PAM Solution Delivery</title>
+    </sys_ux_page_registry>
+</record_update>
