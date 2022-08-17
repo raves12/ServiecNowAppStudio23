@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="PAM Solution Delivery Config">a56a9b8a4b0111104458baf708da8427</app_config>
+        <description/>
+        <fields>sysId</fields>
+        <icon/>
+        <name>Dashboard</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>dashboard</route_type>
+        <screen_type display_value="Dashboard">656a9b8a9f011110795d6137d16dc326</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-03 05:59:05</sys_created_on>
+        <sys_id>256a9b8af2011110ba006b67834efe26</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dashboard</sys_name>
+        <sys_package display_value="PAM Solution Delivery" source="x_16747_pam_solu_0">4d891b4a470111107ae97868f36d439d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PAM Solution Delivery">4d891b4a470111107ae97868f36d439d</sys_scope>
+        <sys_update_name>sys_ux_app_route_256a9b8af2011110ba006b67834efe26</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-03 05:59:05</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=256a9b8af2011110ba006b67834efe26"/>
+</record_update>

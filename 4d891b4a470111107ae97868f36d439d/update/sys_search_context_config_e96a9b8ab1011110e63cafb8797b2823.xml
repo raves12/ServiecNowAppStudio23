@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_context_config">
+    <sys_search_context_config action="INSERT_OR_UPDATE">
+        <evam_definition/>
+        <genius_results_limit/>
+        <hit_highlighting>false</hit_highlighting>
+        <name>PAM Solution Delivery - Workspace Search</name>
+        <search_engine>zing</search_engine>
+        <search_profile/>
+        <search_results_limit>10</search_results_limit>
+        <spell_check>false</spell_check>
+        <suggestions_to_show_limit>10</suggestions_to_show_limit>
+        <sys_class_name>sys_search_context_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-03 05:59:04</sys_created_on>
+        <sys_id>e96a9b8ab1011110e63cafb8797b2823</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PAM Solution Delivery - Workspace Search</sys_name>
+        <sys_package display_value="PAM Solution Delivery" source="x_16747_pam_solu_0">4d891b4a470111107ae97868f36d439d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PAM Solution Delivery">4d891b4a470111107ae97868f36d439d</sys_scope>
+        <sys_update_name>sys_search_context_config_e96a9b8ab1011110e63cafb8797b2823</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-03 05:59:04</sys_updated_on>
+        <ts_index_group/>
+        <view/>
+    </sys_search_context_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=e96a9b8ab1011110e63cafb8797b2823"/>
+</record_update>
